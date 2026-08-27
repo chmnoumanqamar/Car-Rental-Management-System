@@ -1,0 +1,13 @@
+# Car Rental Management System - Dependencies
+# This application is built using Python 3.8+ Standard Libraries.
+# Tkinter and SQLite3 are included by default with standard Python installations on Windows.
+
+# No external third-party packages are required.
+# Standard library modules utilized:
+# - tkinter (GUI Framework)
+# - sqlite3 (Relational Database)
+# - hashlib & secrets (Cryptographic password hashing)
+# - csv (Export reports)
+# - datetime (Date math & formatting)
+# - logging (Audit trail and error logging)
+# - unittest (Automated test suite)
